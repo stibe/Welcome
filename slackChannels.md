@@ -78,7 +78,7 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 **Purpose:** Connect organizers of local meetup groups so they can help support each other and talk about what has work and not worked for their group
 
 
-## connect-newbies
+## connect-newbie
 
 **Purpose:** Connecting others new to data visualization
 
